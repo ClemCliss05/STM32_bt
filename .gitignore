@@ -1,0 +1,7 @@
+build/
+notes/
+*.elf
+*.map
+*.o
+*.bin
+.vscode/
